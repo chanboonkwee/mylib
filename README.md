@@ -1,0 +1,4 @@
+mylib
+=====
+
+Generic python library
